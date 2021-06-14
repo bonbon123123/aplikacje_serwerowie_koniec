@@ -1,0 +1,49 @@
+#board1{
+    top: 10px;
+    left: 10px;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+
+}
+
+#board2{
+    top: 10px;
+    left: 520px;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(55, 191, 145);
+
+}
+#winingScreen{
+    top:10px;
+    left: 10px;
+    width: 1020px;
+    height: 500px;
+    position: absolute;
+    background-color: violet;
+
+}
+#winText{
+    top: 100px;
+    left: 300px;
+    width: 420px;
+    height: 200px;
+    position: absolute;
+    text-align: center;
+    background-color: rgb(243, 178, 243);
+}
+#rematch{
+    bottom: 50px;
+    left: 300px;
+    width: 420px;
+    height: 100px;
+    position: absolute;
+    text-align: center;
+    background-color: rgb(221, 55, 77);
+}
+#rematch:hover{
+     background-color: rgb(155, 20, 38);
+}
